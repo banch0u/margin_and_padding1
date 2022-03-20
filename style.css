@@ -1,0 +1,7 @@
+.box1{
+    border-style: solid;
+    border-color: blue;
+    background-color: palevioletred;
+    padding: 32px;
+    margin: 12px;
+}
