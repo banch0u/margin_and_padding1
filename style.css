@@ -11,3 +11,12 @@
     background-color: lightseagreen;
     margin-bottom: 48px;
 }
+.box3{
+    border-style: solid;
+    border-color: brown;
+    background-color: bisque;
+    margin-top: 48px;
+    padding: 32px;
+    width: 200px;
+    margin-left: auto;
+}
