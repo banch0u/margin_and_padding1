@@ -5,3 +5,9 @@
     padding: 32px;
     margin: 12px;
 }
+.box2{
+    border-style:  solid;
+    border-color: blueviolet;
+    background-color: lightseagreen;
+    margin-bottom: 48px;
+}
